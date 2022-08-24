@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ddce87110f4519cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd99cf5b133c272",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022.08/220817.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c567711faf296c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f6d20cd1320b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a262743b4ad2671e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4595bf64ca701a81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28388808685d2a20",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfa09b6798d1a229",
+    "type": "split",
+    "children": [
+      {
+        "id": "929ceb458ba9dc10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa6d47b69f15955",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022.08/220817.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3ccef1d3dbcfd29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022.08/220817.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d209472fdfd75f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2de468d4315ed43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022.08/220817.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "efd99cf5b133c272",
+  "lastOpenFiles": [
+    "2022.08/220816.md",
+    "2022.08/220812.md",
+    "무제노트.md",
+    "2022.08/220811.md",
+    "2022.08/220809.md",
+    "2022.07/220721.md",
+    "2022.07/220720.md",
+    "2022.07/220719.md",
+    "2022.07/220718.md",
+    "2022.08/220808.md"
+  ]
+}
